@@ -129,3 +129,5 @@ Screenshots (desktop and mobile) go in `docs/screenshots/` – see the list in t
 
 This project is actively maintained.
 More features and improvements are coming soon.
+
+more update and feature will improve future
