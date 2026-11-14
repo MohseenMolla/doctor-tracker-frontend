@@ -125,3 +125,7 @@ Screenshots (desktop and mobile) go in `docs/screenshots/` – see the list in t
 - [x] Patients page: list, edit, delete, add, search, filter (condition, gender, doctor, date range), sort, paginate
 - [x] Dashboard: totals, patients per doctor, date-based statistics, conditions, age/gender, recent patients
 - [x] Responsive layout (mobile drawer navigation), loading/empty/error states, toasts, accessible dialogs
+- [ ] ## Project Updates
+
+This project is actively maintained.
+More features and improvements are coming soon.
